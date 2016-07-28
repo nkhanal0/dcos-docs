@@ -10,7 +10,7 @@ $ docker build --no-cache -t dcos-docs scripts/
 
 2. Verify that the image was successfully built
 ```bash
-$ docker images | grep dcos-image
+$ docker images | grep dcos-docs
 ```
 
 3. Start the container
